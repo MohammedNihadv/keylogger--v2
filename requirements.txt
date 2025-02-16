@@ -1,0 +1,8 @@
+pynput==1.7.6
+Pillow==10.0.0
+pyaudio==0.2.13
+psutil==5.9.5
+rich==13.5.2
+watchdog==3.0.0
+python-telegram-bot==20.7
+opencv-python==4.8.0 
